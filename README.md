@@ -14,7 +14,7 @@
 
 # Overview
 This repository contains codes and data associated with the paper *Single-Neuron Representations of Odors in the Human Brain*
-by [Kehl et al. 2024](https://doi.org/XXXXXX).
+by [Kehl et al. 2024](https://doi.org/10.1038/s41586-024-08016-5).
 In this study, we explore the processing of odors at the level of individual neurons in humans.
 
 ![Overview](Figures/Visual_Overview.png)
@@ -78,7 +78,7 @@ HumanOdorRep_Fig_1_f_behavior()
 # Citation
 
 ## Cite as
-Kehl, M.S. et al. 2024, *Single-Neuron Representations of Odors in the Human Brain*. (DOI:XXX)
+Kehl, M.S. et al. 2024, Nature, *Single-Neuron Representations of Odors in the Human Brain*. (DOI:[10.1038/s41586-024-08016-5](https://doi.org/10.1038/s41586-024-08016-5))
 
 ## Study Authors
 Marcel S. Kehl, Sina Mackay, Kathrin Ohla, Matthias Schneider, Valeri Borger, Rainer Surges,
